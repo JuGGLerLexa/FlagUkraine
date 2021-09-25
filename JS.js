@@ -1,0 +1,1 @@
+console.log("It's a just Ukrainian flag")
